@@ -5,4 +5,6 @@
 ## My Timeline
 | Date     | Description |
 | ----------- | ----------- |
+| 09/09/2021      | Attended Workshop |
+| 12/11/2021      | Train-the-Trainer |
 | 12/11/2021      | Joined  #IamRemarkable |
