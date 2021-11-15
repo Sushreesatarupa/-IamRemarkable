@@ -8,4 +8,4 @@
 | 09/09/2021      | Attended Workshop |
 | 12/11/2021      | Train-the-Trainer |
 | 12/11/2021      | Joined  #IamRemarkable |
-| --/11/2021      | onboarded |
+| 15/11/2021      | Got Facilitator ID |
