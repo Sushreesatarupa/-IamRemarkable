@@ -1,5 +1,3 @@
-- Facilitator Hub on the #IamRemarkable website - materials, resources and information.
-- Facilitator ID 
 
  - #IamRemarkable Workshop slides (not to be downloaded, edited or shared)
  - #IamRemarkable workshop pdf with facilitator notes
