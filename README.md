@@ -12,4 +12,8 @@
 | 16/11/2021      | Onboarded |
 | 28/11/2021      | 1st Workshop |
 | 29/11/2021      | 2nd Workshop |
+| SWAGS      | SWAGS |
 | 29/11/2021      | 3rd Workshop |
+| --/12/2021      | 4th Workshop |
+| --/12/2021      | 5th Workshop |
+| SWAGS      | SWAGS |
